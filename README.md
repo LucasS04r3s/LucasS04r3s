@@ -105,6 +105,7 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 
 ###
 
+</p>
 
 ###
 
@@ -118,7 +119,7 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
@@ -127,3 +128,6 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 
 </p>
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdnbmJhazh4ejA2Y3ZuNHM4dGF1ODRzc2R2aWRwbnF1cjNxdHFsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif"  />
+</div>
