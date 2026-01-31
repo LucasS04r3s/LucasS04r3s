@@ -119,7 +119,7 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
