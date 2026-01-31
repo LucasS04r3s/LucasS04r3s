@@ -1,4 +1,5 @@
 ## 👨🏻‍💻 Lucas Soares 
+
 **`Desenvolvedor de Software`**
 
 Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Sou apaixonado por tecnologia.
@@ -13,7 +14,6 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 ###
 
 <div align="center">
-  <a href="[text](https://www.linkedin.com/in/lucas-de-nascimento-soares-535652215/)">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -22,7 +22,7 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasS04r3s&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasS04r3s&"/>
 </div>
 
 ###
@@ -44,8 +44,9 @@ Me chamo Lucas de Nascimento Soares, tenho 24 anos e sou natural do Rio de Janei
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+>
+
 <img 
     align="left" 
     alt="CSS" 
